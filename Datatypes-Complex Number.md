@@ -12,8 +12,18 @@ To write a Python program that reads two integers, creates a complex number usin
 6. Print the imaginary part of `x` using `x.imag`.
 
 ## 💻 Program
-Add Code Here
+```
+a='T'
+b='a'
+print(a)
+print(b)
+```
 
 ## Output
+<img width="367" height="311" alt="image" src="https://github.com/user-attachments/assets/f8ba7be1-786e-46ef-a51c-ba27f0d460c9" />
+
 
 ## Result
+Thus,the Python program that prints the characters 'T' and 'a' using character literals is created successfully.
+
+
